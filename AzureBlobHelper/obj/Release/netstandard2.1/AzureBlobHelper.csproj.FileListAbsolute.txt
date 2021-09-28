@@ -1,0 +1,10 @@
+/Users/devpc/Repos/Temp/AzureBlobHelper/AzureBlobHelper/bin/Release/netstandard2.1/AzureBlobHelper.deps.json
+/Users/devpc/Repos/Temp/AzureBlobHelper/AzureBlobHelper/bin/Release/netstandard2.1/AzureBlobHelper.dll
+/Users/devpc/Repos/Temp/AzureBlobHelper/AzureBlobHelper/bin/Release/netstandard2.1/AzureBlobHelper.pdb
+/Users/devpc/Repos/Temp/AzureBlobHelper/AzureBlobHelper/obj/Release/netstandard2.1/AzureBlobHelper.csproj.AssemblyReference.cache
+/Users/devpc/Repos/Temp/AzureBlobHelper/AzureBlobHelper/obj/Release/netstandard2.1/AzureBlobHelper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devpc/Repos/Temp/AzureBlobHelper/AzureBlobHelper/obj/Release/netstandard2.1/AzureBlobHelper.AssemblyInfoInputs.cache
+/Users/devpc/Repos/Temp/AzureBlobHelper/AzureBlobHelper/obj/Release/netstandard2.1/AzureBlobHelper.AssemblyInfo.cs
+/Users/devpc/Repos/Temp/AzureBlobHelper/AzureBlobHelper/obj/Release/netstandard2.1/AzureBlobHelper.csproj.CoreCompileInputs.cache
+/Users/devpc/Repos/Temp/AzureBlobHelper/AzureBlobHelper/obj/Release/netstandard2.1/AzureBlobHelper.dll
+/Users/devpc/Repos/Temp/AzureBlobHelper/AzureBlobHelper/obj/Release/netstandard2.1/AzureBlobHelper.pdb
