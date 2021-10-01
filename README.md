@@ -29,7 +29,7 @@ ASP.NET CORE
 
 **Create Container**
 
-    var response = await blobHelper.ContainerAsync(string containerName);
+    var response = await blobHelper.CreateContainerAsync(string containerName);
 
 **Get Container**
 
