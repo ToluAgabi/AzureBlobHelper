@@ -127,6 +127,14 @@ namespace AzureBlobHelper.AzureBlobServices
             //Delete
             await blockBlob.DeleteAsync();
         }
+   public async Task DeleteBlobBuUrlAsync(string blobUrl, CloudBlobContainer blobContainer)
+        {
+            //Blob
+            var blob = new CloudBlockBlob(new Uri(blobUrl), StorageAccount.Credentials);
+            
+            //Delete
+            await blob.DeleteAsync();
+        }
 
         public async Task<bool> ExistsAsync(string blobName, CloudBlobContainer blobContainer)
         {

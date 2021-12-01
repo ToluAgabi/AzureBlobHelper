@@ -24,5 +24,6 @@ namespace AzureBlobHelper.AzureBlobServices
         string GetContainerSasUri(CloudBlobContainer container, string storedPolicyName = null);
         string GetBlobSasUri(CloudBlobContainer container, string blobName, string policyName = null);
         Task DeleteFile(CloudBlobContainer container, string uniqueFileIdentifier);
+        Task DeleteBlobBuUrlAsync(string blobUrl, CloudBlobContainer blobContainer);
     }
 }
